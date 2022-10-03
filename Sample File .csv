@@ -1,0 +1,4 @@
+type,title,description,price,isVeg,imageUrl
+mexican,Quesadillas,about quesadillas,100,TRUE,https://thumbs.dreamstime.com/z/bee-flower-27533578.jpg
+italian,Sphagetti,about sphagetti,250,FALSE,https://thumbs.dreamstime.com/z/bee-flower-27533578.jpg 
+italian,Macroni,about macroni,100,FALSE,https://thumbs.dreamstime.com/z/bee-flower-27533578.jpg 
